@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ### 🧱DEMO PROJECT
 
-* × **[Gomoku_online](https://jinqimu.xyz/game/)**：在线五子棋对弈系统
-* √ **[APF](https://jinqimu.xyz/apf/)**: A script to frame the photos
+* × **[Gomoku_online](https://jinqimu.github.io/game/)**：在线五子棋对弈系统
+* √ **[APF](https://jinqimu.github.io/apf/)**: A script to frame the photos
 -------------
 
 ![](https://github-readme-stats.vercel.app/api?username=jinqimu)
