@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🚩Flags
 
-* 等👴哪天有空了必写个能批量拉黑豆瓣小组成员的爬虫把 *她说* 这个蛆组给拉黑完
+- [ ] 等👴哪天有空了必写个能批量拉黑豆瓣小组成员的爬虫把 *她说* 这个蛆组给拉黑完
 
 ### 📬 Contact with me
 
