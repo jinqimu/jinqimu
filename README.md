@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 * Literature
 * SuperBand(纵贯线)
 
+### 🚩Flags
+
+* 等👴哪天有空了必写个能批量拉黑豆瓣小组成员的爬虫把 *她说* 这个蛆组给拉黑完
+
 ### 📬 Contact with me
 
 * Email[📧](mailto:jinqimu@outlook.com)
