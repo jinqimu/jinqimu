@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 * [Photography](https://jinqimublog.lofter.com/)
 * Literature
 * SuperBand(纵贯线)
+* A-SOUL ![A-SOUL](https://i0.hdslb.com/bfs/space/fd1dbd56e459d86033c22d0771b28976b9b60804.png)
 
 ### 🚩Flags
 
